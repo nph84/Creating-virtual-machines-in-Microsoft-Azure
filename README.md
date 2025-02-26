@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p><img src="https://github.com/user-attachments/assets/011052fc-570a-4d22-8a7b-f30ebe8714e8" height="1600" width="900"</p>
-<p>Create a Windows 10 virtual machine and place inside previously created resource group</p>
+<p>Create a Windows 10 virtual machine and place it inside the previously created resource group</p>
 <br/>
 
 
@@ -44,7 +44,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p><img src="https://github.com/user-attachments/assets/39bff1be-bf19-42e3-9ddb-c7273a9e8cd3" height="1400" width="900"</p>
-<p>Create an Ubuntu VM and create it under previously created resource group and virtual network</p>
+<p>Create an Ubuntu VM and create it under the previously created resource group and virtual network</p>
 <br/>
 
 

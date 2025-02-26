@@ -13,6 +13,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- WireShark
 
 <h2>Operating Systems Used </h2>
 
@@ -20,9 +21,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
+- Create a resource group
+- Create a Windows 10 virtual machine
+- Create a Linux (Ubuntu) virtual machine
 - Item 4
 - Item 5
 

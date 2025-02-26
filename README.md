@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>  Create resource group in Microsoft Azure </p>
 <br />
 
-<p><img src="https://github.com/user-attachments/assets/0fb6da6a-cedf-4077-a333-41d4d91ef1f9" height="1600" width="900"</p>
+<p><img src="https://github.com/user-attachments/assets/011052fc-570a-4d22-8a7b-f30ebe8714e8" height="1600" width="900"</p>
   
 <p>Create a Windows 10 virtual machine and place inside previously created resource group</p>
 

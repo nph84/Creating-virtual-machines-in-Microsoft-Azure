@@ -1,7 +1,6 @@
 
 
 <p align="center">
-  
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg"(https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg)
 
 </p>

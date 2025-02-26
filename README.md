@@ -29,21 +29,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/f339b176-4fdd-49bc-8294-99b05270d012" height="600" width="400"
-</p>
-<p>
-</p>
+<img src="https://github.com/user-attachments/assets/f339b176-4fdd-49bc-8294-99b05270d012" height="1200" width="900"
+  </p>Create resource group in Microsoft Azure <p>
+</p></p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/50f8281a-20b7-43c0-9637-7231282619f0" height="1800" width="900"
 </p>
-<p>
-</p>
+  
+<p>Create a Windows 10 virtual machine</p>
+
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 </p>

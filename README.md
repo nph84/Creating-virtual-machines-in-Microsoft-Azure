@@ -46,3 +46,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p><img src="https://github.com/user-attachments/assets/39bff1be-bf19-42e3-9ddb-c7273a9e8cd3" height="1400" width="900"</p>
 <p>Create an Ubuntu VM and create it under previously created resource group and virtual network</p>
 <br/>
+
+
+<p><img src="https://github.com/user-attachments/assets/ccb0b61e-c425-45e5-bafe-ddfeaaa89883" height="1400" width="900"</p>
+<p></p>
+<br/>

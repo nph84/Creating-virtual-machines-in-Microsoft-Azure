@@ -2,7 +2,6 @@
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/9f7aa60e-9932-448e-9873-0d06600b8f8a" height="300" width="400"
-
 </p>
 
 <h1>Network-Security-Groups-and-Inspecting-Network-Protocols</h1>

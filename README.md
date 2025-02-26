@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://github.com/user-attachments/assets/f339b176-4fdd-49bc-8294-99b05270d012" height="1000" width="900"
   </p>
-<p>  Create resource group in Microsoft Azure </p>
+<p>  Create a resource group in Microsoft Azure </p>
 <br />
 
 

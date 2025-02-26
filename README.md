@@ -10,9 +10,7 @@ This tutorial outlines the prerequisites and installation of a resource group, W
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
 - Internet Information Services (IIS)
-- WireShark
 
 <h2>Operating Systems Used </h2>
 

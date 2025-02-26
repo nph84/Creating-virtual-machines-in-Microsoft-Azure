@@ -5,7 +5,7 @@
 </p>
 
 <h1>Creating virtual machines in Microsoft Azure</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of a resource group, Windows 10 virtual machine and an Ubuntu virtual machine.<br />
 
 <h2>Environments and Technologies Used</h2>
 

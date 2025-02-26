@@ -24,8 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create a resource group
 - Create a Windows 10 virtual machine
 - Create a Linux (Ubuntu) virtual machine
-- Item 4
-- Item 5
+
 
 <h2>Installation Steps</h2>
 

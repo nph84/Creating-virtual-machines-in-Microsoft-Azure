@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of a resource group, W
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/f339b176-4fdd-49bc-8294-99b05270d012" height="1000" width="900"
+<img src="https://github.com/user-attachments/assets/f339b176-4fdd-49bc-8294-99b05270d012" 
   </p>
 <p>  Create a resource group in Microsoft Azure </p>
 <br />

@@ -25,27 +25,29 @@ This tutorial outlines the prerequisites and installation of a resource group, W
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/f339b176-4fdd-49bc-8294-99b05270d012" 
-  </p>
-<p>  Create a resource group in Microsoft Azure </p>
+Create a resource group in Microsoft Azure. <br /> <br />
+<img src="https://github.com/user-attachments/assets/f339b176-4fdd-49bc-8294-99b05270d012" height="80%" width="80%" />
+</p>
 <br />
 
 
-<p><img src="https://github.com/user-attachments/assets/011052fc-570a-4d22-8a7b-f30ebe8714e8" height="1600" width="900"</p>
-<p>Create a Windows 10 virtual machine and place it inside the previously created resource group</p>
+<p>
+Create a Windows 10 virtual machine and place it inside the previously created resource group. <br /> <br />
+<img src="https://github.com/user-attachments/assets/011052fc-570a-4d22-8a7b-f30ebe8714e8" height="80%" width="80%"/>
+</p>  
 <br/>
 
 
-<p><img src="https://github.com/user-attachments/assets/08946001-374b-4374-82a3-52ca0018bc73" height="1400" width="900"</p>
-<p>While creating the VM, allow it to create a new virtual network and subnet</p>
+<p>  
+While creating the VM, allow it to create a new virtual network and subnet. <br /> <br />
+<img src="https://github.com/user-attachments/assets/08946001-374b-4374-82a3-52ca0018bc73" height="80%" width="80%"/>
+</p>
 <br/>
 
 
-<p><img src="https://github.com/user-attachments/assets/39bff1be-bf19-42e3-9ddb-c7273a9e8cd3" height="1400" width="900"</p>
-<p>Create an Ubuntu VM and create it under the previously created resource group and virtual network</p>
+<p>Create an Ubuntu VM under the previously created resource group and virtual network. <br /> <br />
+<img src="https://github.com/user-attachments/assets/39bff1be-bf19-42e3-9ddb-c7273a9e8cd3" height="80%" width="80%" />
 <br/>
-
-
-<p><img src="https://github.com/user-attachments/assets/ccb0b61e-c425-45e5-bafe-ddfeaaa89883" height="1400" width="900"</p>
-<p></p>
+<img src="https://github.com/user-attachments/assets/ccb0b61e-c425-45e5-bafe-ddfeaaa89883" height="80%" width="80%" />
+</p>
 <br/>
